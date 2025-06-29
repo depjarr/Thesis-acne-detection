@@ -1,5 +1,6 @@
 ## Thesis: Analyzing Performance YOLOv8 in Detection, Amount, and Type of Acne Lesions
 
+### About This Project
 Acne is one of the most common skin diseases and
 usually appears on the facial area. The onset of acne is caused
 by oily skin conditions and excessive pores, resulting in the
@@ -34,3 +35,27 @@ improve the efficiency of dermatologists in diagnosing accurate
 acne so that patients can receive appropriate treatment.
 Index Terms—YOLOv8, acne, acne detection, deep learning,
 dermatology
+
+### Architecture and Flowchart
+- flowchart
+![alt text](image.png)
+
+- methodology
+![alt text](image-1.png)
+
+### Dataset
+The dataset used in this paper was derived from Kaagle
+and published by a Kaagle user named Arturo Bandini.
+Kaagle is a platform which consists with various sources of
+scientific data projects to make it easier for someone to find
+data without having to search and collect the data themselves. After choosing the dataset to be used, the dataset was
+saved in Google Drive to facilitate the preprocessing and
+implementation of the YOLOv8 model
+
+- example dataset
+![alt text](image-2.png)
+
+### Result
+
+- confussion matrix
+![alt text](image-3.png)
